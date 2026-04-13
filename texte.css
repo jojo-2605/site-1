@@ -27,7 +27,7 @@ section {
   display: none;
 }
 
-.colonne {
+.colonnes {
   display: flex;
   justify-content: space-around;
 }
