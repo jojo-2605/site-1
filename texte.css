@@ -26,3 +26,8 @@ section {
 .hidden {
   display: none;
 }
+
+.colonne {
+  display: flex;
+  justify-content: space-around;
+}
