@@ -7,10 +7,10 @@
 **gras** _italique_
 **gras** _italique_
 
--dfdfdff
--dfdfdfd
--dfdfdfd
+- dfdfdff
+- dfdfdfd
+- dfdfdfd
 
-1.fd
-2.df
-3.fdf
+1. fd
+2. df
+3. fdf
